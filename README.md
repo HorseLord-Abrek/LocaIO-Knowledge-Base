@@ -5,9 +5,9 @@
 > *LocaI/O Knowledge Base* is a documentation that contains information about:
 > - *Basics of translation technologies*
 > - Best practices of:
-	- *MT* (Machine Translation) 
-	- *CAT* (Computer Assisted Translation) 
-	- *LQA* (Language Quality Assurance) tools
+		- *MT* (Machine Translation) 
+		- *CAT* (Computer Assisted Translation) 
+		- *LQA* (Language Quality Assurance) tools
 > - How to solve common issues 
 > - FAQs 
 > - How to create best workflow for various projects
