@@ -21,17 +21,28 @@
 
 **Table of Contents**
 - [Basic Terminology](#basic-terminology)
-	- [Translation-(t9n)](#translation)
+	- [Translation (t9n)](#translation)
+	- [Interpreting](#interpreting)
 	- [Localization](#localization)
 
 ## Basic Terminology
 
 ### Translation (t9n)
 
-> Transferring a text from one language to another.
+> Translation is the rendering meaning from one written language into another written language. *[(ref)](https://www.gala-global.org/knowledge-center/about-the-industry/language-services)*
 
-### Localization
+### Interpreting
 
-> Localization is the entire workflow of adapting a product, serivce or content to a specific location or market *[(ref)](https://www.gala-global.org/knowledge-center/about-the-industry/language-services)*
+> Interpreting is the facilitation of spoken or signed language communication between users of different languages. *[(ref)](https://www.gala-global.org/knowledge-center/about-the-industry/language-services)*
 
-### 
+### Localization (l10n)
+
+> Localization is the entire workflow of adapting a product, serivce or content to a specific location or market. *[(ref)](https://www.gala-global.org/knowledge-center/about-the-industry/language-services)*
+
+### Globalization (g11n)
+
+> Globalization refers to a broad range of engineering and business processes to prepare and launch products and services internationally. *[(ref)](https://www.gala-global.org/knowledge-center/about-the-industry/language-services)*
+
+### Internationalization (i18n)
+
+> Internationalization is the design of software code bases and resources that allow an application to be adapted to various locales without requiring changes to the code base. *[(ref)](https://www.gala-global.org/knowledge-center/about-the-industry/language-services)*
