@@ -17,5 +17,5 @@
 - Much more (We are open to suggestions).
 
 
-#### LocaI/O is a new initiative and like any other knowledge base, it requires an immense amount of community contribution. Feel free to put your name under any contribution, your efforts are much appriciated.
+> #### LocaI/O is a new initiative and like any other knowledge base, it requires an immense amount of community contribution. Feel free to put your name under any contribution, your efforts are much appriciated.
 
