@@ -21,7 +21,7 @@
 
 **Table of Contents**
 - [Basic Terminology](#basic-terminology)
-	-[Translation](#translation)
+	- [Translation](#translation)
 
 ## Basic Terminology
 
