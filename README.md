@@ -22,9 +22,14 @@
 **Table of Contents**
 - [Basic Terminology](#basic-terminology)
 	- [Translation](#translation)
+	- [Localization](#localization)
 
 ## Basic Terminology
 
 ### Translation
 
->
+> Transferring a text from one language to another.
+
+### Localization
+
+> 
