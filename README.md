@@ -23,7 +23,9 @@
 - [Basic Terminology](#basic-terminology)
 	- [Translation (t9n)](#translation)
 	- [Interpreting](#interpreting)
-	- [Localization](#localization)
+	- [Localization (l10n)](#localization)
+	- [Globalization (g11n)](#globalization)
+	- [Internationalization (i18n)](#internationalization)
 
 ## Basic Terminology *[(References)](https://www.gala-global.org/knowledge-center/about-the-industry/language-services)*
 
