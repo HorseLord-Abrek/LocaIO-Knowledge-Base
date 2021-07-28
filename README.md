@@ -20,12 +20,12 @@
 > #### LocaI/O is a new initiative and like any other knowledge base, it requires an immense amount of community contribution. Feel free to put your name under any contribution, your efforts are much appriciated.
 
 **Table of Contents**
-- [Basic Terminology](#basic-terminology)
-	- [Translation (t9n)](#translation)
+- [Basic Terminology](#basic-terminology-references)
+	- [Translation (t9n)](#translation-t9n)
 	- [Interpreting](#interpreting)
-	- [Localization (l10n)](#localization)
-	- [Globalization (g11n)](#globalization)
-	- [Internationalization (i18n)](#internationalization)
+	- [Localization (l10n)](#localization-l10n)
+	- [Globalization (g11n)](#globalization-g11n)
+	- [Internationalization (i18n)](#internationalization-i18n)
 
 ## Basic Terminology *[(References)](https://www.gala-global.org/knowledge-center/about-the-industry/language-services)*
 
