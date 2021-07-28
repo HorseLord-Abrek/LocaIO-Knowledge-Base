@@ -21,15 +21,17 @@
 
 **Table of Contents**
 - [Basic Terminology](#basic-terminology)
-	- [Translation](#translation)
+	- [Translation-(t9n)](#translation)
 	- [Localization](#localization)
 
 ## Basic Terminology
 
-### Translation
+### Translation (t9n)
 
 > Transferring a text from one language to another.
 
 ### Localization
 
-> Localization is the entire workflow of adapting a product, serivce or content to a specific location or market *[ref](https://www.gala-global.org/knowledge-center/about-the-industry/language-services)*
+> Localization is the entire workflow of adapting a product, serivce or content to a specific location or market *[(ref)](https://www.gala-global.org/knowledge-center/about-the-industry/language-services)*
+
+### 
